@@ -1,0 +1,86 @@
+html {
+    height: 100%;
+    overflow: hidden;
+    background:skyblue;
+}
+
+#title {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    color:black;
+    text-align: center;
+    font-family: Lato;
+    font-weight: 300;
+    font-size: 50px;
+    letter-spacing: 10px;
+    margin-top: -60px;
+    padding-left: 10px;
+}
+
+#title span {
+    background: -webkit-linear-gradient(black, red);
+    -webkit-text-fill-color: transparent;
+}
+
+
+#outer {
+    width: 90%;
+    max-width: 400px;
+    max-height: 400px;;
+    background: yellow (242, 239, 239);
+    background-color: transparent;
+    text-align: center;
+    margin: 0 auto;
+    font: 500 18px arial
+  }
+
+  #cover {
+
+    padding: 144px 0;
+  }
+
+  .main {
+    table-layout: fixed;
+    width: 96%;
+    margin: 5px auto;
+    text-align: left;
+    border-radius: 4px;
+  }
+
+  .main td {
+    color:black;
+    padding: 4px 8px;
+    vertical-align: middle;
+    width: 50%;
+    border: 0
+  }
+
+  ul {
+    padding: 0 0 5px 5px;
+    list-style: none
+  }
+
+  li {
+    line-height: 15px;
+  }
+
+
+
+  input.output {
+    font-weight: bold;
+    font-size: 18px;
+    padding: 5px 0;
+    border: 0;
+    text-align: center
+  }
+
+  #t1 {
+    width: 100%
+  }
+
+
+  
+
+
